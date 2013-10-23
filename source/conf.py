@@ -108,7 +108,7 @@ html_context = {
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = u"数据结构"
+html_title = u"高级语言程序设计"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
