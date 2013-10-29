@@ -14,7 +14,8 @@
 相关资料
 ========
 
-* :download:`VC调试方法 <debug.doc>`
+* :download:`VC上机指导(Visual Studio 2010版本) <debug.doc>`
+* :download:`VC上机指导(Visual Studio 6版本) <sjsc.pdf>`
 
 .. toctree::
    :maxdepth: 1
