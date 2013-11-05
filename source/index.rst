@@ -11,6 +11,15 @@
 
    chap*/index
 
+作业
+====
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   week*/index
+
 相关资料
 ========
 
