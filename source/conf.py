@@ -28,7 +28,7 @@
 extensions = ['sphinx.ext.todo']
 
 # Add any paths that contain templates here, relative to this directory.
-# templates_path = ['_templates']
+templates_path = ['_templates']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -103,7 +103,7 @@ html_theme = 'default'
 
 
 html_context = {
-   "disqus_shortname" : 'datastructure',
+   "disqus_shortname" : 'zjgsu-c',
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
