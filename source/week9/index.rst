@@ -13,4 +13,9 @@
 参考答案
 ========
 
-稍后发布
+:download:`A <week9_A.c>`
+:download:`B <week9_B.c>`
+:download:`C <week9_C.c>`
+:download:`D <week9_D.c>`
+:download:`E <week9_E.c>`
+:download:`F <week9_F.c>`
