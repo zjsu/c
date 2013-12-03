@@ -1,0 +1,10 @@
+author: Jianwei Han
+url: http://unstablest.com
+title: 高级语言程序设计
+disqus_short_name: zjgsu-c
+
+pygments: true
+markdown: redcarpet
+
+redcarpet:
+  extensions: [no_intra_emphasis, tables, fenced_code_blocks, autolink, space_after_headers]
