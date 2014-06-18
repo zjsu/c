@@ -17,6 +17,7 @@ title: ACM平台介绍
         int a,b;
         scanf("%d %d",&a, &b);
         printf("%d\n",a+b);
+        return 0;
     }
     ~~~
 
@@ -33,6 +34,7 @@ title: ACM平台介绍
         int a,b;
         while (scanf("%d %d",&a, &b) != EOF)
             printf("%d\n",a+b);
+        return 0;
     }
     ~~~
 
@@ -47,6 +49,7 @@ title: ACM平台介绍
         int a,b;
         while(scanf("%d %d",&a, &b) &&(a||b))
              printf("%d\n",a+b);
+        return 0;
     }
     ~~~
 
@@ -157,12 +160,14 @@ title: ACM平台介绍
 
         ~~~ c
         int a;
-        bool bFirst = true;
+        int bFirst = 1;
+        //bool bFirst = true;
         while (scanf("%d", &a) == 1) {
             if (!bFirst)
                 puts("");
             else
-                bFirst = false;
+                bFirst = 0;
+                //bFirst = false;
             printf("%d\n", a);
         }
         ~~~
